@@ -4,7 +4,7 @@
 
 ### Marketing Target of Bank Portugal
 
-[Project 2 Title](/pdf/Marketing Target of Bank Portugal.pdf)
+[Click here for project details](/pdf/Marketing Target of Bank Portugal.pdf)
 <img src="images/Marketing Target of Bank Portugal.jpg?raw=true"/>
 
 ---
